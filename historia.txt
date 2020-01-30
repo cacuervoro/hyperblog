@@ -1,1 +1,2 @@
-Esta es una pequeña prueba de Git.
+Esta es una pequeña prueba de Git 
+y nací en Colombia. Tengo 30 años.
