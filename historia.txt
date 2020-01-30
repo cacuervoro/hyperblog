@@ -4,3 +4,5 @@ y nací en Colombia. Tengo 30 años.
 Parece de mayor edad por su mirada seria, pero no en realidad.
 
 Hablar de su vida, mañana hablaremos de otra cosa.
+
+cambio para probar el git reset head.
